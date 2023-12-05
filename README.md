@@ -2,6 +2,8 @@
 
 This repository contains examples of codes to use the function calling or tooling calling for the OpenAI APIs.
 
+I also wrote a [blog post](https://medium.com/@igorcosta/beyond-basics-transforming-your-approach-with-advanced-openai-function-calls-and-tools-7e569f2427f0) about it.
+
 Provides a simple way to call the OpenAI API with the following features:
 
 - [x] Simple tooling/function calling
