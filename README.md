@@ -54,6 +54,10 @@ python advanced_calling.py # for advanced calling demo
 
 ```
 
+## Jupyter Notebook for Advanced Function Calling
+
+We have added a Jupyter notebook titled `advanced_function_calling_demo.ipynb` to this repository. This notebook is designed for experienced and seasoned developers looking to explore the advanced usage of the Functions registry from `advanced_function_calling.py`. It includes detailed examples, explanations, and code snippets that can be executed within the notebook to showcase real-world usage. This resource aims to provide a comprehensive guide on effectively utilizing the Functions registry for advanced function calling techniques.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
